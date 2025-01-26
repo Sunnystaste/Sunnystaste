@@ -4,8 +4,7 @@
 1. Post-processing Multi-SLAM algorithm
 2. Real-time reconstruction for L2PRO/K1 and subsequent products
 
-![Yuan You's  github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Sunnystaste&show_icons=true&theme=default&count_private=true&role=OWNER,ORGANIZATION_MEMBER&hide=prs,issues) 
-
+I am also an active open-source contributor, I will open source my work as much as possible so that more researchers can benefit from it. (The premise is that the company allows it.)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uestc-icsp&repo=VoxelMapPlus_Public)](https://github.com/uestc-icsp/VoxelMapPlus_Public)
 
 &nbsp; The format about README.md is followed about [**Jiarong Lin**]([https://scholar.google.com.hk/citations?hl=zh-CN&user=p3hXCC0AAAAJ](https://github.com/ziv-lin)).
