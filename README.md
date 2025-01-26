@@ -6,6 +6,6 @@
 
 ![Yuan You's  github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Sunnystaste&show_icons=true&theme=default&count_private=true&role=OWNER,ORGANIZATION_MEMBER&hide=prs,issues) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hku-mars&repo=r3live)](https://github.com/hku-mars/r3live)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uestc-icsp&repo=VoxelMapPlus_Public)](https://github.com/uestc-icsp/VoxelMapPlus_Public)
 
 &nbsp; The format about README.md is followed about [**Jiarong Lin**]([https://scholar.google.com.hk/citations?hl=zh-CN&user=p3hXCC0AAAAJ](https://github.com/ziv-lin)).
