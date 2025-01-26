@@ -6,7 +6,7 @@
 2. Real-time reconstruction for L2PRO/K1 and subsequent products
 
 &nbsp; I am also an active open-source contributor, I will open source my work as much as possible so that more researchers can benefit from it. (The premise is that the XGRIDS allows it.)
-ome of my most popular works include [**VoxelMap++ (★300+)**]((https://github.com/uestc-icsp/VoxelMapPlus_Public)).
+ome of my most popular works include [**VoxelMap++ (★300+)**](https://github.com/uestc-icsp/VoxelMapPlus_Public).
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uestc-icsp&repo=VoxelMapPlus_Public)](https://github.com/uestc-icsp/VoxelMapPlus_Public)
